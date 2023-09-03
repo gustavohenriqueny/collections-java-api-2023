@@ -1,6 +1,6 @@
 package main.java.list.Ordenacao;
 
-public class MainOrdenacao {
+public class MainListOrdenacao {
 
     public static void main(String[] args) {
         OrdenacaoPessoa ordenacaoPessoa = new OrdenacaoPessoa();

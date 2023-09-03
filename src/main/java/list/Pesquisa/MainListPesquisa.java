@@ -1,6 +1,6 @@
 package main.java.list.Pesquisa;
 
-public class MainPesquisa {
+public class MainListPesquisa {
 
     public static void main(String[] args) {
         CatalogoLivros catalogoLivros = new CatalogoLivros();

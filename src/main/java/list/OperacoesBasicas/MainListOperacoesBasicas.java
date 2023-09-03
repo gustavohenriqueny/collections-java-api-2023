@@ -1,6 +1,6 @@
 package main.java.list.OperacoesBasicas;
 
-public class MainOperacoesBasicas {
+public class MainListOperacoesBasicas {
 
     public static void main(String[] args) {
         ListaTarefa listaTarefa = new ListaTarefa();
